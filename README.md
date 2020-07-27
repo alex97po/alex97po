@@ -1,4 +1,6 @@
-### Hi there 👋
+### Java Developer and Java Lecturer. It is my personal github page with some pet projects and demo projects for IT school 👋
+
+
 
 <!--
 **alex97po/alex97po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
